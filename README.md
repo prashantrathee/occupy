@@ -1,7 +1,6 @@
 # Occupy
 Documents describing Occupy' basic functionalities, which is an android application aimed at streamlining the process of recruiting help for daily chores such as gardening and baby-sitting.
 
-Sure, here's a basic README file template for your GitHub repository based on the project description you provided:
 
 ---
 
